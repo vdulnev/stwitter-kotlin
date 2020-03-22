@@ -1,2 +1,3 @@
 rootProject.name='STwitter-kotlin'
 include ':app'
+include ':SharedCode'
